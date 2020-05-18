@@ -9,20 +9,21 @@ Aplikasi web sederhana untuk memasukkan donasi dan menampilkan hasil donasi terk
 * Fitur pertama yang ada pada aplikasi web ini adalah menampilkan form input untuk memasukkan data-data terkait barang yang hendak didonasikan beserta nama donaturnya yang kemudian akan disimpan kedalam database. Donatur juga dapat menyumbang atau mendonasikan barang lebih dari satu jenis. Misal beras dan gula. Dengan mengklik ikon **"+"**.
 
 Screenshot Form
-![Form](https://github.com/agung56/FP_MVC_Agung-Mulyono_05311840000035/blob/master/image/form.png)
+![Form](https://github.com/agung56/FP_MVC_Agung-Mulyono_05311840000035/blob/master/image/input%20form.png)
 
 * Fitur yang kedua adalah jika donatur berhasil ataupun gagal memasukkan donasinya maka akan muncul pesan dibagian atas form
 
 Screenshot Form Berhasil
-![Form berhasil](https://github.com/agung56/FP_MVC_Agung-Mulyono_05311840000035/blob/master/image/Form_input.png)
+![Form berhasil](https://github.com/agung56/FP_MVC_Agung-Mulyono_05311840000035/blob/master/image/form%20berhasil.png)
 Screenshot Form Gagal
-![Form gagal]()
+![Form gagal](https://github.com/agung56/FP_MVC_Agung-Mulyono_05311840000035/blob/master/image/form%20gagal.png)
 
 * Fitur yang ketiga adalah apabila donatur telah berhasil memasukkan donasinya, maka donatur dapat melihat hasil donasinya pada halaman hasil donasi
 
 Screenshot Halaman Hasil Donasi
-![hasil donasi]()
+![hasil donasi](https://github.com/agung56/FP_MVC_Agung-Mulyono_05311840000035/blob/master/image/hasil%20donasi.png)
 
 * Fitur yang terakhir adalah pengguna ataupun donatur dapat menampilkan hasil donasi miliknya sendiri dengan menggunakan fitur pencarian
+
 Screenshot Pencarian
-![pencarian]()
+![pencarian](https://github.com/agung56/FP_MVC_Agung-Mulyono_05311840000035/blob/master/image/pencarian.png)
